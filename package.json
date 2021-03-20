@@ -10,8 +10,8 @@
     "contracts"
   ],
   "dependencies": {
-    "@BakeryProject/bakery-swap-core": "0.0.1",
-    "@BakeryProject/bakery-swap-lib": "0.0.1"
+    "@BakeryProject/bakery-swap-core": "https://github.com/kschildmann/bakery-swap-core",
+    "@BakeryProject/bakery-swap-lib": "https://github.com/BakeryProject/bakery-swap-lib"
   },
   "devDependencies": {
     "@ethersproject/abi": "^5.0.3",
